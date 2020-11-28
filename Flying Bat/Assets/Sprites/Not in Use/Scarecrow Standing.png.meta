@@ -1,0 +1,740 @@
+fileFormatVersion: 2
+guid: c0dd09c79c0e26e4abf03d28a0f3bd51
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9174068510358085002
+    second: Scarecrow Standing_0
+  - first:
+      213: -7023484004808354265
+    second: Scarecrow Standing_1
+  - first:
+      213: -8794397315981161610
+    second: Scarecrow Standing_2
+  - first:
+      213: 2497098708858253547
+    second: Scarecrow Standing_3
+  - first:
+      213: 4169210515073678171
+    second: Scarecrow Standing_4
+  - first:
+      213: 5980073527384365071
+    second: Scarecrow Standing_5
+  - first:
+      213: -504540517985529697
+    second: Scarecrow Standing_6
+  - first:
+      213: -4525427130770474224
+    second: Scarecrow Standing_7
+  - first:
+      213: -7738330739131198507
+    second: Scarecrow Standing_8
+  - first:
+      213: 4942917133912240268
+    second: Scarecrow Standing_9
+  - first:
+      213: 5127093556791503195
+    second: Scarecrow Standing_10
+  - first:
+      213: 6665312829857776890
+    second: Scarecrow Standing_11
+  - first:
+      213: -8226453429114708358
+    second: Scarecrow Standing_12
+  - first:
+      213: -8567191689963730710
+    second: Scarecrow Standing_13
+  - first:
+      213: -3922164824954495736
+    second: Scarecrow Standing_14
+  - first:
+      213: -5849695797361213239
+    second: Scarecrow Standing_15
+  - first:
+      213: -3238478233352681729
+    second: Scarecrow Standing_16
+  - first:
+      213: 828899366478061658
+    second: Scarecrow Standing_17
+  - first:
+      213: -4655722973644142189
+    second: Scarecrow Standing_18
+  - first:
+      213: 4294598061043647612
+    second: Scarecrow Standing_19
+  - first:
+      213: 4848879437958569418
+    second: Scarecrow Standing_20
+  - first:
+      213: -7872712816939812856
+    second: Scarecrow Standing_21
+  - first:
+      213: 5899246284389306108
+    second: Scarecrow Standing_22
+  - first:
+      213: -3385093783449391792
+    second: Scarecrow Standing_23
+  - first:
+      213: -6018088624541565144
+    second: Scarecrow Standing_24
+  - first:
+      213: 3447417905747581550
+    second: Scarecrow Standing_25
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Scarecrow Standing_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 990
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672620fcb492fa080800000000000000
+      internalID: -9174068510358085002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarecrow Standing_1
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 990
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72692c77282978e90800000000000000
+      internalID: -7023484004808354265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarecrow Standing_2
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 990
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b4b4f5c3604f580800000000000000
+      internalID: -8794397315981161610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarecrow Standing_3
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 990
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be03596ab0a77a220800000000000000
+      internalID: 2497098708858253547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarecrow Standing_4
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 990
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b3ac0cfd20cd930800000000000000
+      internalID: 4169210515073678171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarecrow Standing_5
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 792
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08567a703d7df250800000000000000
+      internalID: 5980073527384365071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarecrow Standing_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 792
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f905ea272138ff8f0800000000000000
+      internalID: -504540517985529697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarecrow Standing_7
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 792
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bb28550047231c0800000000000000
+      internalID: -4525427130770474224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarecrow Standing_8
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 792
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d35993313deb9490800000000000000
+      internalID: -7738330739131198507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarecrow Standing_9
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 792
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80f701d1f4c89440800000000000000
+      internalID: 4942917133912240268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarecrow Standing_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 594
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5960c6ec68172740800000000000000
+      internalID: 5127093556791503195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarecrow Standing_11
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 594
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4c68454b2ff7c50800000000000000
+      internalID: 6665312829857776890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarecrow Standing_12
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 594
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ed25c1134c5dd80800000000000000
+      internalID: -8226453429114708358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarecrow Standing_13
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 594
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae888058c883b1980800000000000000
+      internalID: -8567191689963730710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarecrow Standing_14
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 594
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d1e0a4fdba199c0800000000000000
+      internalID: -3922164824954495736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarecrow Standing_15
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 396
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c080325aa4b1dea0800000000000000
+      internalID: -5849695797361213239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarecrow Standing_16
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 396
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6cd28743d9e03d0800000000000000
+      internalID: -3238478233352681729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarecrow Standing_17
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 396
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50a8750597d08b00800000000000000
+      internalID: 828899366478061658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarecrow Standing_18
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 396
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399c05f5f9c836fb0800000000000000
+      internalID: -4655722973644142189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarecrow Standing_19
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 396
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c748699ce2a799b30800000000000000
+      internalID: 4294598061043647612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarecrow Standing_20
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 198
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd573a882eaa4340800000000000000
+      internalID: 4848879437958569418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarecrow Standing_21
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 198
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80833a787618eb290800000000000000
+      internalID: -7872712816939812856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarecrow Standing_22
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 198
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe41977d355ed150800000000000000
+      internalID: 5899246284389306108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarecrow Standing_23
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 198
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05dad12932bb501d0800000000000000
+      internalID: -3385093783449391792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarecrow Standing_24
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 198
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f716bf7447b7ca0800000000000000
+      internalID: -6018088624541565144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarecrow Standing_25
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ad760f150b7df20800000000000000
+      internalID: 3447417905747581550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

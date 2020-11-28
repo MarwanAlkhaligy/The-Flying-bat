@@ -1,0 +1,623 @@
+fileFormatVersion: 2
+guid: 1fc4354ae7018ba48a43e5ff10c72ca4
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: 000
+  - first:
+      1: 100002
+    second: //RootNode
+  - first:
+      1: 100004
+    second: bone L Calf1
+  - first:
+      1: 100006
+    second: bone L Calf2
+  - first:
+      1: 100008
+    second: bone L Calf3
+  - first:
+      1: 100010
+    second: bone L Calf4
+  - first:
+      1: 100012
+    second: bone L Clavicle
+  - first:
+      1: 100014
+    second: bone L Foot1
+  - first:
+      1: 100016
+    second: bone L Foot2
+  - first:
+      1: 100018
+    second: bone L Foot3
+  - first:
+      1: 100020
+    second: bone L Foot4
+  - first:
+      1: 100022
+    second: bone L Forearm
+  - first:
+      1: 100024
+    second: bone L Hand
+  - first:
+      1: 100026
+    second: bone L leg1
+  - first:
+      1: 100028
+    second: bone L leg2
+  - first:
+      1: 100030
+    second: bone L leg3
+  - first:
+      1: 100032
+    second: bone L leg4
+  - first:
+      1: 100034
+    second: bone L Thigh1
+  - first:
+      1: 100036
+    second: bone L Thigh2
+  - first:
+      1: 100038
+    second: bone L Thigh3
+  - first:
+      1: 100040
+    second: bone L Thigh4
+  - first:
+      1: 100042
+    second: bone L Toe1
+  - first:
+      1: 100044
+    second: bone L Toe2
+  - first:
+      1: 100046
+    second: bone L Toe3
+  - first:
+      1: 100048
+    second: bone L Toe4
+  - first:
+      1: 100050
+    second: bone L UpperArm
+  - first:
+      1: 100052
+    second: bone Pelvis
+  - first:
+      1: 100054
+    second: bone R Calf1
+  - first:
+      1: 100056
+    second: bone R Calf2
+  - first:
+      1: 100058
+    second: bone R Calf3
+  - first:
+      1: 100060
+    second: bone R Calf4
+  - first:
+      1: 100062
+    second: bone R Clavicle
+  - first:
+      1: 100064
+    second: bone R Foot1
+  - first:
+      1: 100066
+    second: bone R Foot2
+  - first:
+      1: 100068
+    second: bone R Foot3
+  - first:
+      1: 100070
+    second: bone R Foot4
+  - first:
+      1: 100072
+    second: bone R Forearm
+  - first:
+      1: 100074
+    second: bone R Hand
+  - first:
+      1: 100076
+    second: bone R leg1
+  - first:
+      1: 100078
+    second: bone R leg2
+  - first:
+      1: 100080
+    second: bone R leg3
+  - first:
+      1: 100082
+    second: bone R leg4
+  - first:
+      1: 100084
+    second: bone R Thigh1
+  - first:
+      1: 100086
+    second: bone R Thigh2
+  - first:
+      1: 100088
+    second: bone R Thigh3
+  - first:
+      1: 100090
+    second: bone R Thigh4
+  - first:
+      1: 100092
+    second: bone R Toe1
+  - first:
+      1: 100094
+    second: bone R Toe2
+  - first:
+      1: 100096
+    second: bone R Toe3
+  - first:
+      1: 100098
+    second: bone R Toe4
+  - first:
+      1: 100100
+    second: bone R UpperArm
+  - first:
+      1: 100102
+    second: Box01
+  - first:
+      1: 100104
+    second: Dummy01
+  - first:
+      1: 100106
+    second: Dummy02
+  - first:
+      1: 100108
+    second: Dummy03
+  - first:
+      1: 100110
+    second: Dummy04
+  - first:
+      1: 100112
+    second: HH_dabi01
+  - first:
+      1: 100114
+    second: HH_dabi02
+  - first:
+      1: 100116
+    second: HH_Hair
+  - first:
+      1: 100118
+    second: HH_Head
+  - first:
+      1: 100120
+    second: HH_jian01
+  - first:
+      1: 100122
+    second: HH_jian02
+  - first:
+      1: 100124
+    second: HH_jiao01
+  - first:
+      1: 100126
+    second: HH_jiao02
+  - first:
+      1: 100128
+    second: HH_ride
+  - first:
+      1: 100130
+    second: HH_shou01
+  - first:
+      1: 100132
+    second: HH_shou02
+  - first:
+      1: 100134
+    second: HH_tui01
+  - first:
+      1: 100136
+    second: HH_tui02
+  - first:
+      1: 100138
+    second: HH_xiaobi01
+  - first:
+      1: 100140
+    second: HH_xiaobi02
+  - first:
+      1: 100142
+    second: HH_xiaotui01
+  - first:
+      1: 100144
+    second: HH_xiaotui02
+  - first:
+      1: 100146
+    second: HH_xiong
+  - first:
+      1: 100148
+    second: IK Chain L1
+  - first:
+      1: 100150
+    second: IK Chain L2
+  - first:
+      1: 100152
+    second: IK Chain L3
+  - first:
+      1: 100154
+    second: IK Chain L4
+  - first:
+      1: 100156
+    second: IK Chain R1
+  - first:
+      1: 100158
+    second: IK Chain R2
+  - first:
+      1: 100160
+    second: IK Chain R3
+  - first:
+      1: 100162
+    second: IK Chain R4
+  - first:
+      4: 400000
+    second: 000
+  - first:
+      4: 400002
+    second: //RootNode
+  - first:
+      4: 400004
+    second: bone L Calf1
+  - first:
+      4: 400006
+    second: bone L Calf2
+  - first:
+      4: 400008
+    second: bone L Calf3
+  - first:
+      4: 400010
+    second: bone L Calf4
+  - first:
+      4: 400012
+    second: bone L Clavicle
+  - first:
+      4: 400014
+    second: bone L Foot1
+  - first:
+      4: 400016
+    second: bone L Foot2
+  - first:
+      4: 400018
+    second: bone L Foot3
+  - first:
+      4: 400020
+    second: bone L Foot4
+  - first:
+      4: 400022
+    second: bone L Forearm
+  - first:
+      4: 400024
+    second: bone L Hand
+  - first:
+      4: 400026
+    second: bone L leg1
+  - first:
+      4: 400028
+    second: bone L leg2
+  - first:
+      4: 400030
+    second: bone L leg3
+  - first:
+      4: 400032
+    second: bone L leg4
+  - first:
+      4: 400034
+    second: bone L Thigh1
+  - first:
+      4: 400036
+    second: bone L Thigh2
+  - first:
+      4: 400038
+    second: bone L Thigh3
+  - first:
+      4: 400040
+    second: bone L Thigh4
+  - first:
+      4: 400042
+    second: bone L Toe1
+  - first:
+      4: 400044
+    second: bone L Toe2
+  - first:
+      4: 400046
+    second: bone L Toe3
+  - first:
+      4: 400048
+    second: bone L Toe4
+  - first:
+      4: 400050
+    second: bone L UpperArm
+  - first:
+      4: 400052
+    second: bone Pelvis
+  - first:
+      4: 400054
+    second: bone R Calf1
+  - first:
+      4: 400056
+    second: bone R Calf2
+  - first:
+      4: 400058
+    second: bone R Calf3
+  - first:
+      4: 400060
+    second: bone R Calf4
+  - first:
+      4: 400062
+    second: bone R Clavicle
+  - first:
+      4: 400064
+    second: bone R Foot1
+  - first:
+      4: 400066
+    second: bone R Foot2
+  - first:
+      4: 400068
+    second: bone R Foot3
+  - first:
+      4: 400070
+    second: bone R Foot4
+  - first:
+      4: 400072
+    second: bone R Forearm
+  - first:
+      4: 400074
+    second: bone R Hand
+  - first:
+      4: 400076
+    second: bone R leg1
+  - first:
+      4: 400078
+    second: bone R leg2
+  - first:
+      4: 400080
+    second: bone R leg3
+  - first:
+      4: 400082
+    second: bone R leg4
+  - first:
+      4: 400084
+    second: bone R Thigh1
+  - first:
+      4: 400086
+    second: bone R Thigh2
+  - first:
+      4: 400088
+    second: bone R Thigh3
+  - first:
+      4: 400090
+    second: bone R Thigh4
+  - first:
+      4: 400092
+    second: bone R Toe1
+  - first:
+      4: 400094
+    second: bone R Toe2
+  - first:
+      4: 400096
+    second: bone R Toe3
+  - first:
+      4: 400098
+    second: bone R Toe4
+  - first:
+      4: 400100
+    second: bone R UpperArm
+  - first:
+      4: 400102
+    second: Box01
+  - first:
+      4: 400104
+    second: Dummy01
+  - first:
+      4: 400106
+    second: Dummy02
+  - first:
+      4: 400108
+    second: Dummy03
+  - first:
+      4: 400110
+    second: Dummy04
+  - first:
+      4: 400112
+    second: HH_dabi01
+  - first:
+      4: 400114
+    second: HH_dabi02
+  - first:
+      4: 400116
+    second: HH_Hair
+  - first:
+      4: 400118
+    second: HH_Head
+  - first:
+      4: 400120
+    second: HH_jian01
+  - first:
+      4: 400122
+    second: HH_jian02
+  - first:
+      4: 400124
+    second: HH_jiao01
+  - first:
+      4: 400126
+    second: HH_jiao02
+  - first:
+      4: 400128
+    second: HH_ride
+  - first:
+      4: 400130
+    second: HH_shou01
+  - first:
+      4: 400132
+    second: HH_shou02
+  - first:
+      4: 400134
+    second: HH_tui01
+  - first:
+      4: 400136
+    second: HH_tui02
+  - first:
+      4: 400138
+    second: HH_xiaobi01
+  - first:
+      4: 400140
+    second: HH_xiaobi02
+  - first:
+      4: 400142
+    second: HH_xiaotui01
+  - first:
+      4: 400144
+    second: HH_xiaotui02
+  - first:
+      4: 400146
+    second: HH_xiong
+  - first:
+      4: 400148
+    second: IK Chain L1
+  - first:
+      4: 400150
+    second: IK Chain L2
+  - first:
+      4: 400152
+    second: IK Chain L3
+  - first:
+      4: 400154
+    second: IK Chain L4
+  - first:
+      4: 400156
+    second: IK Chain R1
+  - first:
+      4: 400158
+    second: IK Chain R2
+  - first:
+      4: 400160
+    second: IK Chain R3
+  - first:
+      4: 400162
+    second: IK Chain R4
+  - first:
+      43: 4300000
+    second: Box01
+  - first:
+      74: 7400000
+    second: Take 001
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      111: 11100000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Box01
+  externalObjects: {}
+  materials:
+    materialImportMode: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips:
+  - 838bf47b40c16174a98ac6779c6ad805
+  - d868bb4e32f3ca84c8a3f71b5df93925
+  - 1e5e93f86901c4d43b5e0c7b8fb7ae18
+  - e4fc6232c3eba734898d2bdddbb5f5cd
+  - 70f71e074afd2b34ebb857b94ee6fd86
+  - ecddcab1cd91b2f41a9034043632fdc7
+  - 87f41313be70bad4496daf42a16b3ce8
+  - 540dd342fe8c4df4aad8e16eabe87bbf
+  - a9dc5f13af2b6b04390a9a2003f82c27
+  - 358687353a6130242aadbe131c5c6f03
+  - 3e9225eba8c23eb49bb380868cbb520e
+  - 6e5edbff94729dc4f91341b75923ddd8
+  - 1a3c6f95905940640b8b775a4e77ebcd
+  - 071d3ab27d7957e4b8f1f46aaac73011
+  - 0f06bb27f60fe294eb3e9c935935d364
+  - 4ba626b75c393e9488beb90f509d8fd4
+  - 043ad2b7687ca9146a458401a1877b75
+  - 76cb6d0ad591db24eb111efce4cbbfa2
+  - db376bfc8a11cbc40a232076f96b7ed4
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 1
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
